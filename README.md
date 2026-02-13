@@ -1,3 +1,9 @@
+<!-- Color for site bg -->
+<style>
+  body {
+    background-color: yellow;
+  }
+</style>
 
 # Welcome to tshajlij-lee.github.io!
 
