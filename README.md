@@ -1,2 +1,2 @@
 # tshajlij-lee.github.io
-My example of a GitHub.io portfolio
+My example of a GitHub.io portfolio WE GOT IT
