@@ -11,9 +11,9 @@
 Hello! My name is Tshajlij Lee (first name pronounced Cha-lee), and I am a college student currently enrolled at UWEC. I am majoring in computer software engineering and I plan to someday be a "legendary" coder, in which I can output code without the use of ChatGPT. My favorite animals are ducks and my favorite color is blue. Although I may be green to coding and software itself, I'll try my best and give it my all, no matter what task!
 
 ### Skills:
-<p>Java<b>
-<p>SQL<b>
-<p>HTML<b>
+Java
+SQL
+HTML
 
 ### Projects:
 Check out a Mandelbrot project I worked on!:
