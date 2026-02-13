@@ -1,0 +1,2 @@
+# Site settings, used to remove the "Edit on GitHub" link from the page header
+github: is_project_page: false
