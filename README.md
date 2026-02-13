@@ -1,7 +1,7 @@
 <!-- Color for site bg -->
 <style>
   body {
-    background-color: yellow;
+    background-color: blue;
   }
 </style>
 
